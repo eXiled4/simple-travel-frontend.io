@@ -1,0 +1,16 @@
+.fancy {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    color: rgb(209, 77, 209);
+    font-size: 300%;
+    
+}
+
+.fancy1 {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    color: rgb(209, 77, 209);
+    text-align: center;
+}
+
+.container{
+    align-items: center;
+}
